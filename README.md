@@ -7,10 +7,9 @@ My name is David Petti. I am currently a computer science student at Penn State 
 
 ## 📚 I'm currently learning...
 
-- Javascript
 - React.js
 - Firebase
-- RESTful APIs with Express.js
+- REST APIs with Express.js
 
 ## 💻 Skills
 
