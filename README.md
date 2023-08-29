@@ -14,7 +14,7 @@ My name is David Petti. I am currently a computer science student at Penn State 
 
 ## 💻 Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,react,express,vite,py,firebase,docker,linux,vscode,git)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,express,vite,py,java,firebase,docker,linux,vscode,git)
 
 # Stats
 
