@@ -3,17 +3,17 @@
 
 # Hi there 👋
 
-My name is David Petti. I am currently a computer science student at Penn State University. After college, my goal is to pursue a career in web development.
+My name is David Petti. I am currently a computer engineering student at Penn State University. After college, my goal is to pursue a career in embedded systems programming.
 
 ## 📚 I'm currently learning...
 
-- React.js
-- Firebase
-- REST APIs with Express.js
+- Embedded Software Design with C++ and Arduino
+- Web Development with Go and HTMX
+- 
 
 ## 💻 Skills
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,express,vite,py,java,firebase,docker,linux,vscode,git)
+![My Skills](https://skillicons.dev/icons?i=ts,react,express,vite,py,java,postgres,docker,kubernetes,linux,git)
 
 # Stats
 
