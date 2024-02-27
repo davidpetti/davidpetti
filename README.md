@@ -7,7 +7,7 @@ My name is David Petti. I am currently a computer engineering student at Penn St
 
 ## 📚 I'm currently learning...
 
-- Embedded Software Design with C++ and Arduino
+- Embedded Software Design with C, STM32 and Arduino
 - Web Development with Go and HTMX
 
 ## 💻 Skills
